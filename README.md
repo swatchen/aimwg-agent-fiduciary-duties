@@ -1,4 +1,4 @@
-This repo was created as a workspace for the **Fiduciary Agent Stack Task Force** of the Trust Over IP AIM Working Group. The purpose of this Task Force is to create an Agent-to Agent Stack particularly for long term or consequential relationships bound by mutual duties both specific and general. This Task Force is the result of Mr. Vitka receiving a warm reception to his proposal, which is discussed here: https://github.com/trustoverip/dtgwg-general/discussions/21
+This repo was created as a workspace for the **Fiduciary Agent Stack Task Force** of the Trust Over IP AIM Working Group. The purpose of this Task Force is to create an Agent-to Agent Stack particularly for long term or consequential relationships bound by mutual duties both specific and general. This Task Force is the result of Mr. Vitka receiving a warm reception to his proposal, https://docs.google.com/document/d/1hHBTXMfcHBBepiZ7cugr2YdR-M05YmNfh5P3eldYU3k/edit?usp=sharing, which is discussed here: https://github.com/trustoverip/dtgwg-general/discussions/21. 
 
 OTHER TASK FORCE DETAILS, HOW TO PARTICIPATE
 
